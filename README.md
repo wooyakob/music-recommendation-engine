@@ -33,8 +33,8 @@ This competition is looking for interesting use cases that could benefit from th
 
 ## Technologies
 This project is built with:
-- [Language] Python, SQL, Markdown
-- [Tools] Gemini API, Jupyter Notebooks
+- Python, SQL, Markdown
+- Gemini API, Jupyter Notebooks
 
 ---
 
